@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-color: rgb(202, 202, 147);
+}
+
+ul{
+    text-align: left;
+    font-size: 20px;
+    margin-left: 15%;
+}
+
+ul li{
+    display: inline-block;
+    margin: 1% 1%;
+}
+
